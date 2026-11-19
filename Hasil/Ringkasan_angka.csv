@@ -1,0 +1,14 @@
+"Keterangan","Nilai"
+"Jumlah probe dianalisis",22810
+"Probe dengan adj.P.Val < 0,05",2977
+"Probe DEG (adj.P < 0,05 dan |logFC| >= 1)",267
+"Probe UP",135
+"Probe DOWN",132
+"Probe yang punya ID gen",22591
+"Gen unik DEG",266
+"Gen unik UP",134
+"Gen unik DOWN",132
+"Term GO BP signifikan",100
+"Term GO MF signifikan",2
+"Term GO CC signifikan",0
+"Jalur KEGG signifikan",4
