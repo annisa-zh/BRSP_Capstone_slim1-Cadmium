@@ -2,9 +2,13 @@
 
 Capstone Project BRSP | Annisa Z
 
+## Latar Belakang
+
+Kadmium (Cd) merupakan logam berat yang bersifat toksik bagi tanaman dan dapat memengaruhi ekspresi gen yang terlibat dalam respons stres, detoksifikasi, dan metabolisme. Detoksifikasi logam berat pada tanaman melibatkan senyawa yang mengandung sulfur, seperti glutation dan fitokelatin. SLIM1 (SULFUR LIMITATION1) merupakan faktor transkripsi yang berperan dalam mengatur respons *Arabidopsis thaliana* terhadap kekurangan sulfur. Dataset GSE138943 memuat data ekspresi gen mutan *slim1-1* dan *wild type* Col-0 yang diberi perlakuan arsenik atau kadmium. Analisis ini menggunakan kelompok dengan perlakuan kadmium 100 µM untuk mengidentifikasi perbedaan ekspresi gen antara kedua genotipe.
+
 ## Problem Statement
 
-Gen dan proses biologis apa saja yang menunjukkan perbedaan ekspresi antara mutan *slim1-1* dan wild type Col-0 pada *Arabidopsis thaliana* yang diberi cekaman kadmium 100 µM?
+> Gen dan proses biologis apa saja yang menunjukkan perbedaan ekspresi antara mutan *slim1-1* dan *wild type* Col-0 pada *Arabidopsis thaliana* yang diberi cekaman kadmium 100 µM?
 
 ## Tentang Dataset
 
