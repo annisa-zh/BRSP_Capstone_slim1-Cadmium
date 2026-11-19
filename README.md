@@ -54,7 +54,7 @@ R / RStudio, GEOquery, limma, clusterProfiler, org.At.tair.db, ggplot2, pheatmap
 
 ## Simpulan
 
-Perubahan ekspresi gen pada mutan slim1-1 dibandingkan wild type Col-0 berkaitan dengan respons stres (hipoksia, stres oksidatif, dan asam jasmonat), serta jalur pemrosesan protein di retikulum endoplasma dan metabolisme sekunder pada kondisi cekaman kadmium. Hasil analisis bersifat prediktif (n = 3 per kelompok) dan menggambarkan perbedaan antargenotipe, bukan respons spesifik terhadap paparan kadmium, sehingga masih memerlukan validasi lebih lanjut. Pembahasan lengkap disajikan dalam file Laporan_Hasil.pdf.
+Terdapat 267 probe DEG (135 *upregulated* dan 132 *downregulated*) yang merepresentasikan 266 gen unik antara mutan *slim1-1* dan *wild type* Col-0 pada cekaman kadmium 100 µM. Gen-gen tersebut berkaitan dengan respons stres (hipoksia, stres oksidatif, dan asam jasmonat), pemrosesan protein di retikulum endoplasma, serta metabolisme sekunder dan karbohidrat (biosintesis flavonoid dan metabolit sekunder, serta metabolisme pati dan sukrosa). Hasil ini menggambarkan perbedaan antargenotipe pada kondisi kadmium yang sama, bukan respons spesifik terhadap kadmium. Hasil bersifat prediktif dan dibatasi oleh jumlah ulangan yang kecil (n = 3 per kelompok), tidak adanya kelompok tanpa kadmium, dan arah perubahan gen pada setiap term GO yang belum dipisahkan. Pembahasan lengkap disajikan dalam `Laporan_Hasil.pdf`.
 
 ## Isi Repository
 
