@@ -4,7 +4,7 @@ Capstone Project BRSP | Annisa Z
 
 ## Problem Statement
 
-Gen dan proses biologis apa yang berbeda ekspresinya antara mutan *slim1-1* dan wild type Col-0 pada *Arabidopsis thaliana* di bawah cekaman kadmium 100 µM?
+Gen dan proses biologis apa saja yang menunjukkan perbedaan ekspresi antara mutan *slim1-1* dan wild type Col-0 pada *Arabidopsis thaliana* yang diberi cekaman kadmium 100 µM?
 
 ## Tentang Dataset
 
@@ -18,7 +18,6 @@ Gen dan proses biologis apa yang berbeda ekspresinya antara mutan *slim1-1* dan 
 | Treatment (mutan *slim1-1*) | GSM4125054, GSM4125055, GSM4125056 |
 | Jumlah probe dianalisis | 22.810 |
 
-> Pada script dan gambar, label *Control* berarti wild type Col-0 dan *Treatment* berarti mutan *slim1-1*. Keduanya berada pada kondisi yang sama (100 µM Cd), sehingga yang dibandingkan adalah genotipe.
 
 ## Tools
 
