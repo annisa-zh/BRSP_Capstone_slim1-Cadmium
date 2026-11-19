@@ -52,24 +52,18 @@ R / RStudio, GEOquery, limma, clusterProfiler, org.At.tair.db, ggplot2, pheatmap
 ### KEGG Pathway
 ![KEGG](Hasil/3b_KEGG_dotplot.png)
 
-## Kesimpulan
+## Simpulan
 
-Hilangnya fungsi SLIM1 diikuti perubahan ekspresi gen respons stres (hipoksia, stres oksidatif, asam jasmonat) serta jalur pemrosesan protein di retikulum endoplasma dan metabolisme sekunder pada kondisi cekaman kadmium. Hasil bersifat prediktif (n = 3 per kelompok) dan menunjukkan perbedaan genotipe, bukan respons terhadap kadmium itu sendiri. Pembahasan lengkap ada di laporan.
+Perubahan ekspresi gen pada mutan slim1-1 dibandingkan wild type Col-0 berkaitan dengan respons stres (hipoksia, stres oksidatif, dan asam jasmonat), serta jalur pemrosesan protein di retikulum endoplasma dan metabolisme sekunder pada kondisi cekaman kadmium. Hasil analisis bersifat prediktif (n = 3 per kelompok) dan menggambarkan perbedaan antargenotipe, bukan respons spesifik terhadap paparan kadmium, sehingga masih memerlukan validasi lebih lanjut. Pembahasan lengkap disajikan dalam file Laporan_Hasil.pdf.
 
 ## Isi Repository
 
 | File / Folder | Keterangan |
 |---|---|
-| `Laporan_Capstone.md` | Laporan singkat |
-| `Capstone_DEG_Analysis.R` | Script analisis |
+| `Laporan_Hasil.pdf` | Laporan singkat |
+| `Capstone_Transcriptomics_Analysis.R` | Script analisis |
 | `Dataset/` | Data dari GEO (GSE138943) |
 | `Hasil/` | Gambar dan tabel hasil analisis |
-
-## Cara Menjalankan
-
-1. Unduh repository ini.
-2. Buka `Capstone_DEG_Analysis.R` di RStudio.
-3. Sesuaikan alamat `folder_hasil` dengan lokasi di komputermu, lalu jalankan script dari atas ke bawah.
 
 ## Referensi
 
